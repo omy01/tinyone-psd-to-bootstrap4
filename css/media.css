@@ -1,0 +1,269 @@
+
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+	header {
+	    padding: 5px 0;
+	}
+	.cus-logo {
+    	max-width: 80%;
+	}
+	.cus-toggle-icon{
+		width: 25px;
+		height: 25px;
+	}
+	.custom-menu ul li a {
+	    padding: 0 42px !important;
+	    font-size: 18px;
+	}
+	/*slider start*/
+	.slider {
+    	padding: 20px 0 45px 0;
+	}
+	.slider-content {
+    	margin-top: 0;
+    	text-align: center;
+	}
+	.slider-content h1 {
+	    font-size: 23px;
+	}
+	.slider-content h6 {
+	    font-size: 18px;
+    	letter-spacing: 0; 
+	}
+	.icons ul li i {
+    	font-size: 30px;
+    	padding-right: 10px;
+	}
+	.cus-slider-img {
+    	max-width: 90%;
+	}
+	/*slider end*/
+	/*features start*/
+	.features {
+    	padding: 40px 0 24px 0;
+	}
+	.ft-content h4 {
+    	font-size: 22px;
+	}
+	.ft-content p {
+    	font-size: 16px;
+	}
+	.ft-content {
+    	margin-bottom: 40px;
+	}
+	.ft-ser-icon i {
+    	font-size: 35px;
+	}
+	.ft-ser-con h4 {
+    	font-size: 20px;
+	}
+	.ft-ser-con {
+    	margin-bottom: 20px;
+    	text-align: center;
+	}
+
+	/*features end*/
+	/*footer start*/
+	.footer {
+    	padding: 30px 0 14px 0;
+	}
+	.footer-content h1 {
+	    font-size: 22px;
+	}
+	.footer-content p {
+    	font-size: 16px;
+    	margin-bottom: 20px;
+	}
+	.cus-form-control {
+    	padding: 20px 0;
+	}
+	.cus-button {
+    	margin-left: 10px;
+	}
+	.footer-icon {
+    	margin-top: 20px;
+	}
+	.footer-icon li i {
+    	font-size: 30px;
+    	margin-right: 15px;
+	}
+	.content2 {
+    	margin-top: 20px;
+	}
+	.content2 p {
+    	font-size: 14px;
+	}
+	.content2 {
+    	text-align: center;
+	}
+	/*footer end*/
+
+}
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+	header {
+    	padding: 12px 0;
+	}
+	.cus-logo {
+    	max-width: 85%;
+	}
+	.cus-toggle-icon {
+    	width: 30px;
+    	height: 30px;
+	}
+	.custom-menu ul li a {
+	    font-size: 20px;
+	    padding: 0 44px !important;
+	}
+	/*slider start*/
+	.slider {
+    	padding: 25px 0 60px 0;
+	}
+	.slider-content {
+    	/*margin-top: 20px;*/
+	}
+	.slider-content {
+    	margin-top: 20px;
+	}
+	/*.slider-img{*/
+		/*margin-top: 25px;*/
+	/*}*/
+	.slider-content h1 {
+	    font-size: 24px;
+	}
+	.slider-content h6 {
+	    font-size: 18px;
+    	letter-spacing: 0; 
+	}
+	.icons ul li i {
+	    font-size: 35px;
+    	padding-right: 15px;
+	}
+	.cus-ind {
+    	bottom: -45px;
+	}
+	.cus-ind li {
+    	width: 13px;
+    	height: 13px;
+	}
+	/*slider end*/
+	/*features start*/
+	.features {
+    	padding: 50px 0 5px 0;
+	}
+	.ft-content h4 {
+    	font-size: 28px;
+	}
+	.ft-content p {
+    	font-size: 16px;
+	}
+	.ft-content {
+    	margin-bottom: 45px;
+	}
+	.ft-ser-icon i {
+    	font-size: 25px;
+	}
+	.ft-ser-con h4 {
+    	font-size: 18px;
+	}
+	/*features end*/
+	/*footer start*/
+	.footer {
+    	padding: 40px 0 35px 0;
+	}
+	.footer-content h1 {
+    	font-size: 24px;
+	}
+	.footer-content p {
+    	font-size: 18px;
+    	margin-bottom: 15px;
+	}
+	.cus-form-control {
+    	padding: 3% 26%;
+	}
+	.footer-icon li i {
+    	font-size: 30px;
+    	margin-right: 16px;
+	}
+	.content2 {
+    	margin-top: 30px;
+    	text-align: center;
+	}
+	.content2 p {
+    	font-size: 15px;
+	}	
+
+	/*footer end*/
+}
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+	/*header{*/
+		/*padding: 10px 0;*/
+	/*}*/
+	.custom-menu ul li a {
+	    padding: 0 52px !important;
+	}
+	/*header end*/
+	/*slider start*/
+	.slider {
+    	padding: 30px 0 80px 0;
+	}
+	.slider-content{
+		margin-top: 20px;
+	}
+	/*slider end*/
+	/*features start*/
+	.features {
+    	padding: 50px 0 15px 0;
+	}
+	.ft-content p {
+    	font-size: 18px;
+	}
+	.ft-ser-icon i {
+    	font-size: 30px;
+	}
+	.ft-ser-con h4 {
+    	font-size: 20px;
+	}
+	/*features end*/
+	/*footer start*/
+	.footer {
+    	padding: 50px 0;
+	}
+	.footer-content h1 {
+    	font-size: 28px;
+	}
+	.footer-content p {
+    	font-size: 18px;
+	}
+	.footer-icon {
+    	margin-top: 30px;
+	}
+	.footer-icon li i {
+    	font-size: 35px;
+    	margin-right: 10px;
+	}
+	.content2 {
+    	margin-top: 25px;
+	}
+	.content2 p {
+    	font-size: 15px;
+	}
+	/*footer end*/
+}
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+	/*features start*/
+	.features {
+    	padding: 100px 0 65px 0;
+	}
+	/*features end*/
+}
+
+ /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+	
+}
